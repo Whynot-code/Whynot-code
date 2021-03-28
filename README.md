@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Whynot-code
 - 👀 I’m interested in coding^^
-- 🌱 I’m currently learning front-end developmend.
+- 🌱 I’m currently learning front-end development.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: whynot.dotslave@gmail.com
 
